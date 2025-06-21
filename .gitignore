@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+env/
+venv/
+.venv/
+
+# Environment Variables
+.env
+
+# Excel Files (keep database but ignore results)
+results.xlsx
+Dubizzle_Results.xlsx
+*_results_*.xlsx
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log 
